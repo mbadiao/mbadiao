@@ -3,9 +3,13 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbaye-diao) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@dakartsn1188) 
 # 💻 Tech Stack:
-## Frontend
-[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-## Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=angular,tailwind,ts)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,hibernate,mongodb,mysql,postgres)](https://skillicons.dev)
 ## Devops
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,bash)](https://skillicons.dev)
+### Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+### Monitoring
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus)](https://skillicons.dev)
